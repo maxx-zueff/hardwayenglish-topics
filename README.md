@@ -1,6 +1,6 @@
 # HardwayEnglish
 
-Type. Wait. Repeat.
+Every sweet Victory requires hard patience and experience. I can't see any easy way of learning english. You should repeat rules and work pretty hard out. If you don't like my idea, you can leave my website alone.
 
 ### What is HardwayEnglish?
 
@@ -14,4 +14,4 @@ And after five days of passing topic, you need to pass the exam. At this point e
 
 ### Contribute
 
-Every collections with rules from **HardwayEnglish** placed here. You can contribute to improve collections on [GitHub]() by signaling issues or proposing changes.
+Every collections with rules from **HardwayEnglish** placed here. You can contribute to improve collections on [GitHub](https://github.com/maxx-zueff/hardwayenglish-topics) by signaling issues or proposing changes.
