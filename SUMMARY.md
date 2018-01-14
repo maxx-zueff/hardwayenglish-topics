@@ -4,7 +4,9 @@
 
 ### Collections
 
-* [The Parts of Speech](collection-01/README.md)
-* [The Parts of Sentence](collection-02/README.md)
+* [Parts of Speech](collection-01/README.md)
+* [Parts of Sentence](collection-02/README.md)
 	* [Basic](collection-02/01-basic.md)
-	* [The Clause](collection-02/02-clause.md)
+	* [Clause](collection-02/02-clause.md)
+	* [Compound Sentence](collection-02/03-compound.md)
+	* [Phrase](collection-02/04-phrase.md)
