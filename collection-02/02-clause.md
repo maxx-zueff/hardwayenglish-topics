@@ -10,7 +10,7 @@ There are 2 sentence structure in English: **simple sentence** and **compound se
 
 **Simple sentence:**
 
-| I am happy  |
+| I am happy |
 | :--- |
 | One clause |
 
@@ -22,7 +22,15 @@ There are 2 sentence structure in English: **simple sentence** and **compound se
 
 ### Examples
 
-
+> I cannot remember **what I said last night**
+>
+> I cannot remember my speech
+>
+> He lost his double chin **after he gave up beer**
+>
+> He lost his double chin recently
+>
+> I am from Russia
 
 
 
